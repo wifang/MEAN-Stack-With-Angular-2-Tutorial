@@ -1,0 +1,30 @@
+{
+  "name": "mean-ang2",
+  "version": "1.0.0",
+  "description": "MEAN Stack with angular 2",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wifang/MEAN-Stack-With-Angular-2-Tutorial.git"
+  },
+  "keywords": [
+    "MEAN",
+    "Stack",
+    "Angular",
+    "2",
+    "Application"
+  ],
+  "author": "William Fang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wifang/MEAN-Stack-With-Angular-2-Tutorial/issues"
+  },
+  "homepage": "https://github.com/wifang/MEAN-Stack-With-Angular-2-Tutorial#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^5.6.9"
+  }
+}
