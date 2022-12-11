@@ -24,7 +24,7 @@
   },
   "homepage": "https://github.com/wifang/MEAN-Stack-With-Angular-2-Tutorial#readme",
   "dependencies": {
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "mongoose": "^5.6.9"
   }
 }
